@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-grid-masonry-demo/static/css/main.97ea3bf5.chunk.css",
+    "main.js": "/react-grid-masonry-demo/static/js/main.031b236a.chunk.js",
+    "main.js.map": "/react-grid-masonry-demo/static/js/main.031b236a.chunk.js.map",
+    "runtime-main.js": "/react-grid-masonry-demo/static/js/runtime-main.869ba22c.js",
+    "runtime-main.js.map": "/react-grid-masonry-demo/static/js/runtime-main.869ba22c.js.map",
+    "static/js/2.491c5c47.chunk.js": "/react-grid-masonry-demo/static/js/2.491c5c47.chunk.js",
+    "static/js/2.491c5c47.chunk.js.map": "/react-grid-masonry-demo/static/js/2.491c5c47.chunk.js.map",
+    "index.html": "/react-grid-masonry-demo/index.html",
+    "static/css/main.97ea3bf5.chunk.css.map": "/react-grid-masonry-demo/static/css/main.97ea3bf5.chunk.css.map",
+    "static/js/2.491c5c47.chunk.js.LICENSE.txt": "/react-grid-masonry-demo/static/js/2.491c5c47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869ba22c.js",
+    "static/js/2.491c5c47.chunk.js",
+    "static/css/main.97ea3bf5.chunk.css",
+    "static/js/main.031b236a.chunk.js"
+  ]
+}
